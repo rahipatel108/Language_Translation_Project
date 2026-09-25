@@ -17,7 +17,7 @@ A simple Language Translation Tool built using Python and Streamlit. This applic
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/rahipatel108/CodeAlpha_Language_Translation.git
+git clone https://github.com/rahipatel108/Language_Translation_Project.git
 ```
 
 2. Install dependencies:
